@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo José Dhiogo Frutuoso da Silva, tenho 17 anos e sou natural do Ceará. Estou cursando o ensino médio na EEMTI Adahil Barreto de Cariús-CE. Sou Penta Medalhista Olímpico de Matemática Nacional Brasileiro (Canguru de Matemática e Mandacaru de Matemática) e também Medalhista Estadual de Educação Física pelo IFCE. No futuro, pretendo cursar Ciências da computação pelo IFCE. Sou apaixonado pela TI, e pretendo adentrar na área daqui um tempo como dev Junior no Back-End. Compartilho minha vida e meus estudos no meu instagram "[DhiogoFrutuoso](https://www.instagram.com/whydhiogo_/)".
+Me chamo José Dhiogo Frutuoso da Silva, tenho 17 anos e sou natural do Ceará. Estou cursando o ensino médio na EEMTI Adahil Barreto de Cariús-CE. Sou Penta Medalhista Olímpico de Matemática Nacional Brasileiro (Canguru de Matemática e Mandacaru de Matemática), Medalhista Estadual de Educação Física pelo IFCE e competi pela fase regional do Ceará Científico com um projeto de um aplicativo de monitoramento de deteriorização ambiental de objetos expecíficos, veja o repositório do aplicativo logo abaixo (EcoScan). No futuro, pretendo cursar Ciências da computação pelo IFCE. Sou apaixonado pela TI, e pretendo adentrar na área daqui um tempo como dev Junior no Back-End. Compartilho minha vida e meus estudos no meu instagram "[DhiogoFrutuoso](https://www.instagram.com/whydhiogo_/)".
 
 
 ### 🤖 Linguagens e Tecnologias
