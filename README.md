@@ -19,6 +19,14 @@ Me chamo José Dhiogo Frutuoso da Silva, tenho 17 anos e sou natural do Ceará. 
 />
 <img 
     align="left" 
+    alt="NodeJs" 
+    title="NodeJs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.pngfind.com/pngs/m/74-744138_mysql-logo-png-mysql-transparent-png.png"
+/>
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
