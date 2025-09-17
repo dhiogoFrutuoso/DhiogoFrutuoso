@@ -68,7 +68,7 @@ Me chamo José Dhiogo Frutuoso da Silva, tenho 17 anos e sou natural do Ceará. 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiogoFrutuoso&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=2" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiogoFrutuoso&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats" 
   />
 
 </p>
