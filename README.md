@@ -6,8 +6,6 @@ Me chamo José Dhiogo Frutuoso da Silva, tenho 17 anos e sou natural do Ceará. 
 
 ### 🤖 Linguagens e Tecnologias
 
-#### Linguagens:
-
 ![NodeJs](https://img.shields.io/badge/NodeJs-5FA04E?style=for-the-badge&logo=Node.js&logoColor=green&labelColor=black)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
