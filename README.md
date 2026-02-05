@@ -7,18 +7,3 @@ Me chamo José Dhiogo Frutuoso da Silva, tenho 18 anos e sou natural do Ceará. 
 Dês da minha infância sou apaixonado pela tecnologia, sempre engajado em tópicos como jogos, desenvolvimento robótico e de assuntos da atualidade. Gosto de me desafiar, sou ótimo na comunicação e interação social, já acumulando 3 apresentações acadêmicas de projetos de pesquisa ciêntificos. Tenho como lema me divertir com as coisas da vida, sejam boas ou ruins.
 
 Tenho uma enorme admiração pela TI. Possuo conhecimento sobre a linguagem de programação NodeJs e atuo com ela nos meu estudos remotos diariamente.
-
-### 🤖 Linguagens e Tecnologias
-
-![NodeJs](https://img.shields.io/badge/NodeJs-5FA04E?style=for-the-badge&logo=Node.js&logoColor=green&labelColor=black)&nbsp;
-![MongoDB](https://img.shields.io/badge/mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-## Me encontre:
-
-<p align = "center">
-
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/dhiogofrutuoso/)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/whydhiogo_/)
-</p>
