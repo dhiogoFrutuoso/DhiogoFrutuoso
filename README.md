@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Olá, eu sou o Dhiogo Frutuoso!
+# 👩🏻‍💻 Olá, me chamo Dhiogo!
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack-Developer-red?style=for-the-badge" alt="Role">
