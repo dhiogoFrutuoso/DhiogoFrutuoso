@@ -14,7 +14,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou **José Dhiogo Frutuoso da Silva**, estudante de **Ciência da Computação no IFCE**. Sou apaixonado por tecnologia desde a infância e hoje foco em construir soluções de alto desempenho utilizando boas práticas de desenvolvimento.
+Sou **Dhiogo**, estudante de **Ciência da Computação no IFCE**. Sou apaixonado por tecnologia desde a infância e hoje foco em construir soluções de alto desempenho utilizando boas práticas de desenvolvimento.
 
 * **🎓 Acadêmico:** Penta medalhista olímpico de matemática e pesquisador científico pelo ensino médio.
 * **💻 Desenvolvimento:** Foco em arquitetura robusta e integração de bancos de dados relacionais e não-relacionais.
