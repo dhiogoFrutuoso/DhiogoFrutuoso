@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Dev Full-Stack | NodeJs | JavaScript, HTML, CSS | MySql, MongoDB | Git, GitHub | CleanCode | Ciência da Computação - IFCE</b>
+  <b>Dev Full-Stack | NodeJs | JavaScript, HTML, CSS | MySql, MongoDB | API REST + RESTFUL | Git | Clean Code | Ciência da Computação - IFCE</b>
 </p>
 
 ---
