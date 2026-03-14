@@ -1,28 +1,38 @@
-# 👩🏻‍💻 Olá, me chamo Dhiogo!
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack-Developer-red?style=for-the-badge" alt="Role">
-  <img src="https://img.shields.io/badge/IFCE-Ciência%20da%20Computação-blue?style=for-the-badge" alt="Edu">
-  <img src="https://img.shields.io/badge/Focus-Clean%20Code-brightgreen?style=for-the-badge" alt="Focus">
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=200&section=header&text=Dhiogo%20Frutuoso&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Dev%20Full-Stack%20%7C%20Ciência%20da%20Computação%20-%20IFCE&descAlignY=58&descSize=18)
 
-<p align="center">
-  <b>Dev Full-Stack | NodeJs | JavaScript, HTML, CSS | MySql, MongoDB | PMMP | API REST + FUL | Clean Code | Ciência da Computação - IFCE</b>
-</p>
+</div>
 
----
+<div align="center">
 
-### 🚀 Sobre Mim
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiogofrutuoso/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhiogoFrutuoso)
+[![Portfolio](https://img.shields.io/badge/Portfólio-CC0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dhiogofrutuosoportfolio.com.br)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whydhiogo_/)
 
-Sou **Dhiogo**, estudante de **Ciência da Computação no IFCE**. Sou apaixonado por tecnologia desde a infância e hoje foco em construir soluções de alto desempenho utilizando boas práticas de desenvolvimento, visite meu portfólio online e saiba mais: https://dhiogofrutuoso.github.io/Portfolio.
-
-* **🎓 Acadêmico:** Penta medalhista olímpico de matemática e pesquisador científico pelo ensino médio.
-* **🖥️ Desenvolvimento:** Foco em arquitetura robusta e integração de bancos de dados relacionais e não-relacionais.
-* **🗣️ Soft Skills:** Alta capacidade de comunicação e experiência em apresentações de projetos acadêmicos.
+</div>
 
 ---
 
-### 💻 Linguagens e Tecnologias
+## 🧑‍💻 Sobre Mim
+
+Olá! Sou **Dhiogo Frutuoso**, estudante de **Ciência da Computação no IFCE** e desenvolvedor Full-Stack apaixonado por tecnologia desde a infância. Construo soluções de alto desempenho com foco em boas práticas, arquitetura robusta e código limpo.
+
+```javascript
+const dhiogo = {
+  formação:     "Ciência da Computação — IFCE",
+  foco:         ["Full-Stack", "Clean Code", "API REST"],
+  conquistas:   "Penta medalhista olímpico de matemática 🥇",
+  pesquisa:     "Pesquisador científico no ensino médio 🔬",
+  softSkills:   ["Comunicação", "Apresentações acadêmicas", "Trabalho em equipe"],
+  atualmente:   "Construindo soluções que conectam pessoas e tecnologia 🚀",
+};
+```
+
+---
+
+## 💻 Linguagens e Tecnologias
 
 <h4 align="center">🎨 Front-End</h4>
 
@@ -58,6 +68,33 @@ Sou **Dhiogo**, estudante de **Ciência da Computação no IFCE**. Sou apaixonad
 
 ---
 
-<p align="center">
-  <i>"A tecnologia a serviço da cidadania."</i>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=dhiogoFrutuoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=CC0000&icon_color=CC0000&border_color=333"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiogoFrutuoso&layout=compact&theme=dark&title_color=CC0000&border_color=333"/>
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [🗳️ Portal Voz Ativa](https://github.com/dhiogoFrutuoso/Portal-Voz-Ativa) | Plataforma digital de comunicação entre cidadãos e governo municipal | Handlebars, Node.js |
+| [🛒 Koka Souls](https://github.com/dhiogoFrutuoso/Koka-Souls) | Loja virtual de itens in-game para jogos Souls-like | HTML, CSS, JS |
+| [💼 Portfólio](https://github.com/dhiogoFrutuoso/Portfolio) | Portfólio pessoal com trajetória, habilidades e projetos | HTML, CSS, JS |
+| [🌿 EcoScan App](https://github.com/dhiogoFrutuoso/EcoScanApp) | Análise de impacto ambiental com Python e OpenAI | Python, Kodular |
+| [📝 Blog App](https://github.com/dhiogoFrutuoso/BlogApp) | Blog de tecnologia com posts dinâmicos | Node.js, MongoDB |
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=120&section=footer)
+
+*"A tecnologia a serviço da cidadania."*
+
+</div>
