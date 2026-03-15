@@ -6,10 +6,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiogofrutuoso/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhiogoFrutuoso)
-[![Portfolio](https://img.shields.io/badge/Portfólio-CC0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dhiogofrutuosoportfolio.com.br)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whydhiogo_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CC0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiogofrutuoso/)
+[![GitHub](https://img.shields.io/badge/GitHub-CC0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhiogoFrutuoso)
+[![Instagram](https://img.shields.io/badge/Instagram-CC0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whydhiogo_/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-CC0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dhiogofrutuoso.github.io/Portfolio)
 
 </div>
 
