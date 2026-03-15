@@ -83,7 +83,7 @@ const dhiogo = {
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [🗳️ Portal Voz Ativa](https://github.com/dhiogoFrutuoso/Portal-Voz-Ativa) | Plataforma digital de comunicação entre cidadãos e governo municipal | Handlebars, Node.js |
+| [🗳️ Portal Voz Ativa](https://github.com/dhiogoFrutuoso/Portal-Voz-Ativa) | Plataforma digital de comunicação entre cidadãos e governo municipal | Node.js, MongoDB |
 | [🛒 Koka Souls](https://github.com/dhiogoFrutuoso/Koka-Souls) | Loja virtual de itens in-game para jogos Souls-like | HTML, CSS, JS |
 | [💼 Portfólio](https://github.com/dhiogoFrutuoso/Portfolio) | Portfólio pessoal com trajetória, habilidades e projetos | HTML, CSS, JS |
 | [🌿 EcoScan App](https://github.com/dhiogoFrutuoso/EcoScanApp) | Análise de impacto ambiental com Python e OpenAI | Python, Kodular |
